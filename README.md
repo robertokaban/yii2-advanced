@@ -1,9 +1,12 @@
 ```
-Silakan update composer telebih kemudian, init yii, create database dan migrate database dengan migrate/fresh
+Silakan update composer telebih dahulu kemudian, 
+init yii, create database dan migrate database dengan migrate/fresh
 
-Akses backend, pada command prompt ketikkan: ./yii serve --docroot="backend/web"
+Akses backend, pada command prompt ketikkan: 
+./yii serve --docroot="backend/web"
 
-Akses frontend, pada command prompt ketikkan: ./yii serve --docroot="frontend/web"
+Akses frontend, pada command prompt ketikkan: 
+./yii serve --docroot="frontend/web"
 
 ```
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
